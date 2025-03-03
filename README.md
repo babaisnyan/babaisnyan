@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/babaisnyan/babaisnyan/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C543%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932.8%20thousand%20lines%20of%20code-blue)
 
@@ -34,18 +34,15 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CMake                    17 mins             █████████████░░░░░░░░░░░░   53.76 % 
-PowerShell               15 mins             ████████████░░░░░░░░░░░░░   46.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   98.81 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vcpkg                    17 mins             █████████████░░░░░░░░░░░░   53.76 % 
-Unknown Project          15 mins             ████████████░░░░░░░░░░░░░   46.24 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/02/2025 14:03:37 UTC
+ Last Updated on 03/03/2025 06:04:07 UTC
 <!--END_SECTION:waka-->
