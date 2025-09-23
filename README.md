@@ -34,16 +34,15 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-XAML                     4 mins              ██████████████░░░░░░░░░░░   55.39 % 
-C#                       3 mins              ███████████░░░░░░░░░░░░░░   44.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BabaLauncher             8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2025 16:03:45 UTC
+ Last Updated on 23/09/2025 16:04:14 UTC
 <!--END_SECTION:waka-->
