@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/babaisnyan/babaisnyan/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932.1%20thousand%20lines%20of%20code-blue)
 
@@ -34,15 +34,21 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       3 hrs 57 mins       ███████████████████░░░░░░   77.20 % 
+Binary                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+XML                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+XAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Protocol Buffer          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            3 hrs 39 mins       ██████████████████░░░░░░░   71.14 % 
+VS Code                  1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VideoTest                4 hrs 22 mins       █████████████████████░░░░   85.20 % 
+DocraftBot               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 ```
 
 
- Last Updated on 25/09/2025 04:06:00 UTC
+ Last Updated on 29/09/2025 16:03:47 UTC
 <!--END_SECTION:waka-->
