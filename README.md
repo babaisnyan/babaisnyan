@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/babaisnyan/babaisnyan/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-908.79%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -34,15 +34,20 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 mins              ██████████████████████░░░   86.81 % 
+Git Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            2 mins              ████████████████████████░   94.98 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LapisProjectSolution     1 min               █████████████████░░░░░░░░   69.73 % 
+Lapis-Project            0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+vcpkg                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 ```
 
 
- Last Updated on 03/03/2026 16:14:28 UTC
+ Last Updated on 07/03/2026 04:31:01 UTC
 <!--END_SECTION:waka-->
